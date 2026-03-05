@@ -11,7 +11,7 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzirfan.sg@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izz-irfan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://yourwebsite.com)
+### [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://yourwebsite.com)
 
 ---
 
