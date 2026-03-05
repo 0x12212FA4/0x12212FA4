@@ -11,7 +11,7 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzirfan.sg@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izz-irfan)
-### [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://yourwebsite.com)
 
 ---
 
@@ -25,25 +25,13 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0x12212FA4 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=0x12212FA4 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x12212FA4 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x12212FA4&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=0x12212FA4&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x12212FA4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<br>
-
-<div align="center">
-  <b>✍️ Random Dev Quote</b><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=0x12212FA4&icon=0&color=0" />
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=0x12212FA4 &icon=0&color=0)](https://visitcount.itsvg.in)
