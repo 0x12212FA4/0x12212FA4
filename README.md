@@ -26,10 +26,7 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0x12212FA4 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0x12212FA4 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x12212FA4 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x12212FA4)](https://github.com/anuraghazra/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
