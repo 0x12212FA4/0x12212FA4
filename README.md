@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Izz! 👋
 
-<!--
-**0x12212FA4/0x12212FA4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student based in Singapore. I enjoy building simple solutions and am always eager to learn new things!
 
-Here are some ideas to get you started:
+### 🔭 What I'm up to
+* Currently working on: My Portfolio.
+* Currently learning: Refining my cybersecurity skills.
+* Ask me about: Tech, networking, or the secret to a great cup of coffee! ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Skills
+* **Languages:** [e.g., Python, JavaScript, HTML/CSS]
+* **Tools:** [e.g., Git, React, VS Code]
+
+### 📫 Let's Connect
+* **Email:** [izzirfan.sg@gmai.com](mailto:izzirfan.sg@gmai.com)
+* **LinkedIn:** [Link to your profile](https://linkedin.com/in/yourprofile)
+* **Portfolio:** [Link to your website](https://yourwebsite.com)
