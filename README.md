@@ -26,9 +26,11 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 ---
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x12212FA4)](https://github.com/anuraghazra/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=0x12212FA4&show_icons=true&theme=synthwave) </br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0x12212FA4&size_weight=0.5&count_weight=0.5&theme=synthwave) </br>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=0x12212FA4&theme=synthwave)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0x12212FA4 &icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=0x12212FA4)
