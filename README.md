@@ -30,7 +30,7 @@ I'm a polytechnic student based in Singapore. I enjoy building simple solutions,
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0x12212FA4&size_weight=0.5&count_weight=0.5&theme=synthwave) </br>
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=0x12212FA4&theme=synthwave)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=0x12212FA4)
